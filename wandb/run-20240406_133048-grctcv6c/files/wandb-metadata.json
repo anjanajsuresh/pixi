@@ -1,0 +1,47 @@
+{
+    "os": "Windows-11-10.0.22631-SP0",
+    "python": "3.12.2",
+    "heartbeatAt": "2024-04-06T08:00:58.285652",
+    "startedAt": "2024-04-06T08:00:48.878981",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:\\Users\\Anjalina\\Desktop\\logisticreg\\task1_pixi.py",
+    "codePathLocal": "task1_pixi.py",
+    "codePath": "task1_pixi.py",
+    "host": "LAPTOP-FRCIQLSE",
+    "username": "Anjalina",
+    "executable": "C:\\Users\\Anjalina\\Desktop\\logisticreg\\.pixi\\envs\\default\\python.EXE",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 1508.0,
+        "min": 0.0,
+        "max": 2112.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1508.0,
+            "min": 0.0,
+            "max": 2112.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 475.4999542236328,
+            "used": 433.0111427307129
+        }
+    },
+    "gpu": "NVIDIA GeForce MX130",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce MX130",
+            "memory_total": 2147483648
+        }
+    ],
+    "memory": {
+        "total": 7.808582305908203
+    }
+}

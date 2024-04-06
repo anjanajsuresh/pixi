@@ -1,0 +1,49 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    python_version: 3.12.2
+    cli_version: 0.16.5
+    framework: sklearn
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    start_time: 1712390448.0
+    t:
+      1:
+      - 5
+      - 35
+      - 53
+      - 55
+      2:
+      - 5
+      - 35
+      - 53
+      - 55
+      3:
+      - 2
+      - 23
+      4: 3.12.2
+      5: 0.16.5
+      8:
+      - 3
+      - 5
+      13: windows-amd64
+penalty:
+  desc: null
+  value: l2
+solver:
+  desc: null
+  value: sag
+C:
+  desc: null
+  value: 0.546149951657387
+fit_intercept:
+  desc: null
+  value: true
+intercept_scaling:
+  desc: null
+  value: 0.10140036665974715
+l1_ratio:
+  desc: null
+  value: null

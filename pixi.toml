@@ -1,0 +1,16 @@
+[project]
+name = "logisticreg"
+version = "0.1.0"
+description = "Add a short description here"
+channels = ["conda-forge"]
+platforms = ["win-64"]
+
+[tasks]
+
+[dependencies]
+optuna = ">=3.6.0,<3.7"
+wandb = ">=0.16.5,<0.17"
+python = ">=3.12.2,<3.13"
+numpy = ">=1.26.4,<1.27"
+scikit-learn = ">=1.4.1.post1,<1.4.2"
+matplotlib = ">=3.8.3,<3.9"
